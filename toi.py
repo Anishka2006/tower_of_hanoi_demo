@@ -34,7 +34,7 @@ def display_towers(towers, n, move_msg=""):
 
     #Move description
     if move_msg:
-        print(f"\n👉 {move_msg}\n")
+        print(f"\n {move_msg}\n")
 
     #Print towers
     for level in range(n - 1, -1, -1):
