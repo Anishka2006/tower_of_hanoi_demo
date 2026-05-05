@@ -92,7 +92,7 @@ cd tower-of-hanoi-demo
 3. Run the program:
 
 ```
-python hanoi.py
+python toi.py
 ```
 
 4. Enter number of disks (recommended: 3–5)
@@ -104,7 +104,7 @@ python hanoi.py
 ```
 tower-of-hanoi-demo/
 │
-├── hanoi.py        # Main program
+├── toi.py        # Main program
 ├── README.md       # Documentation
 ```
 
